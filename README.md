@@ -1,5 +1,5 @@
 <h1 align="center">Pseudo Changer</h1>
-<p align="center">Change a nickname by replacing the letters with numbers..</p>
+<p align="center">Change a nickname by replacing the letters with numbers.</p>
 
 # Features
  - Graphic display.
