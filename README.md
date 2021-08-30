@@ -1,33 +1,18 @@
-<h1 align="center">Pseudo Changer</h1>
-<p align="center">Change a nickname by replacing the letters with numbers.</p>
+# Pseudo Changer [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]()
+
+> Change a nickname by replacing the letters with numbers.
 
 # Features
  - Graphic display.
  - Simple to use.
 
-<br>
-
 # How to use
  1. Install external modules.
  2. Launch [pseudo_changer.py](pseudo_changer.py).
  3. Enjoy !
- 
-<br>
 
 # Example
 ![pseudochanger_example.png](https://cdn.discordapp.com/attachments/778283706388709376/880752602483142656/unknown.png)
- 
-<br>
-
-# Author
-- **Astraa**
-    - [Github](https://github.com/AstraaDev)
-    - [Twitter](https://twitter.com/AstraaDev)
-    - [Discord](https://discord.gg/pUZrFnabvd)
-    - [WebSite](http://astraadev.club/)
-    - [PayPal.me](https://www.paypal.com/paypalme/fmrhrt)
-
-<br>
 
 # Donate
 Support this project and [others](https://github.com/AstraaDev) by Astraa via [PayPal](https://www.paypal.com/).
